@@ -36,5 +36,7 @@
 	"award_narrative_placeholder": "Completaron un proyecto...",
 	"award_noneYet": "Ninguno premiado aún",
 	"award_recipientEmail": "Correo electrónico del destinatario",
-	"awardedBadge": "Insignia otorgada"
+	"awardedBadge": "Insignia otorgada",
+	"awardedBadge_email_description": "Felicitaciones, usted ha sido galardonado con una insignia por el logro {achievementName} en la comunidad {communityName} .<inlang-LineFeed>\nPuedes ver tu insignia aquí e iniciar sesión para actualizarla:\n{badgeUrl}",
+	"backpack": "Mochila de insignias"
 }
