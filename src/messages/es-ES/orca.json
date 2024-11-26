@@ -48,5 +48,6 @@
 	"badge_other": "insignias",
 	"breadcrumb": "Ruta de navegación",
 	"cancelCTA": "Cancelar",
-	"categories_description": "Organiza tus logros por categoría para ayudar a tu comunidad a ver qué debe ir junto y qué es lo más importante."
+	"categories_description": "Organiza tus logros por categoría para ayudar a tu comunidad a ver qué debe ir junto y qué es lo más importante.",
+	"categories_editCTA": "Editar categorías"
 }
