@@ -23,5 +23,7 @@
 	"achievement_openClaimable_description": "Cualquier persona puede reclamar este logro",
 	"achievement_other": "Logros",
 	"achievement_share_description": "Comparte este logro con otras personas que puedan reclamarlo o aprender más sobre él. Por ejemplo, puedes mostrar o guardar el código QR para agregarlo a una presentación e invitar a la audiencia a reclamar una insignia.",
-	"achievement_youHaveClaimed_description": "Has reclamado con éxito una insignia por este logro."
+	"achievement_youHaveClaimed_description": "Has reclamado con éxito una insignia por este logro.",
+	"achievements_all": "Todos los logros",
+	"achievements_description": "Los logros que muestra una comunidad te identifican lo que importa en la comunidad."
 }
