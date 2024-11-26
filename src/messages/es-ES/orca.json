@@ -18,5 +18,6 @@
 	"achievement_editCTA": "Editar logro",
 	"achievement_edit_description": "Cuando actualice un logro, la nueva definición se aplicará a los miembros de la comunidad que lo reclamaron anteriormente, así como a los premios futuros.",
 	"achievement_invitedByNameAtTime": "Invitado por {givenName} {familyName} {timeAgo}",
-	"achievement_name": "Nombre del logro"
+	"achievement_name": "Nombre del logro",
+	"achievement_narrative": "Narrativa de logros"
 }
