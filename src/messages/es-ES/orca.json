@@ -49,5 +49,16 @@
 	"breadcrumb": "Ruta de navegación",
 	"cancelCTA": "Cancelar",
 	"categories_description": "Organiza tus logros por categoría para ayudar a tu comunidad a ver qué debe ir junto y qué es lo más importante.",
-	"categories_editCTA": "Editar categorías"
+	"categories_editCTA": "Editar categorías",
+	"categories_title": "Categorías de logros",
+	"category": "Categoría",
+	"category_achievementCount": "Recuento de logros",
+	"category_name": "Nombre de la categoría",
+	"category_other": "Categorías",
+	"category_weight": "Importancia",
+	"chapi_cancelFailError": "Error al almacenar credenciales. La operación falló o fue cancelada por el usuario. No hay más detalles disponibles.",
+	"chapi_description": "Para compartir tus insignias entre diferentes comunidades y otros sitios donde las uses, puedes enviarlas a una cartera. Esta aplicación admite carteras compatibles con",
+	"chapi_noPolyfillError": "No hay ningún controlador de credenciales Polyfill activo en este navegador.",
+	"chapi_walletSignupCTA_description": "Si aún no tienes una cartera compatible, puedes registrarte para obtener una nueva cartera con",
+	"claimCTA": "Reclamar"
 }
