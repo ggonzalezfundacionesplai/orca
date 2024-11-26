@@ -62,5 +62,11 @@
 	"chapi_walletSignupCTA_description": "Si aún no tienes una cartera compatible, puedes registrarte para obtener una nueva cartera con",
 	"claimCTA": "Reclamar",
 	"claimConfiguration_adminOnly_description": "Este logro sólo puede ser otorgado por administradores de la comunidad.",
-	"claimConfiguration_allow": "Permitir la reclamación de insignias"
+	"claimConfiguration_allow": "Permitir la reclamación de insignias",
+	"claimConfiguration_claimDisabled": "No reclamable",
+	"claimConfiguration_claimEnabled": "Reclamación habilitada",
+	"claimConfiguration_claimRequiresSummary": "Este logro puede ser reclamado por miembros que tengan una insignia por:",
+	"claimConfiguration_heading": "Configuración de la reclamación de insignias",
+	"claimConfiguration_noReviewsRequired_description": "Las reclamaciones de insignia son válidas inmediatamente y no requieren revisión.",
+	"claimConfiguration_openClaimableCTA": "Solicitud para unirse a la comunidad"
 }
