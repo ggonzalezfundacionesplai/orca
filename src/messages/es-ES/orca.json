@@ -32,5 +32,6 @@
 	"awardBadgeCTA_description": "Reconozca directamente el logro de un miembro de la comunidad con una insignia.",
 	"awardCTA": "Invitar",
 	"award_createUserIfNotExistsOption": "Avanzado: Forzar la creación de una cuenta para este usuario si aún no es miembro",
-	"award_narrative_description": "Puede enviar una descripción de por qué el miembro cumple los criterios para conseguir este logro. Se incluirá en la insignia que se le otorga. Si hay una URL que apunta a evidencias de este logro en la web, puede incluirla."
+	"award_narrative_description": "Puede enviar una descripción de por qué el miembro cumple los criterios para conseguir este logro. Se incluirá en la insignia que se le otorga. Si hay una URL que apunta a evidencias de este logro en la web, puede incluirla.",
+	"award_narrative_placeholder": "Completaron un proyecto..."
 }
