@@ -35,5 +35,6 @@
 	"award_narrative_description": "Puede enviar una descripción de por qué el miembro cumple los criterios para conseguir este logro. Se incluirá en la insignia que se le otorga. Si hay una URL que apunta a evidencias de este logro en la web, puede incluirla.",
 	"award_narrative_placeholder": "Completaron un proyecto...",
 	"award_noneYet": "Ninguno premiado aún",
-	"award_recipientEmail": "Correo electrónico del destinatario"
+	"award_recipientEmail": "Correo electrónico del destinatario",
+	"awardedBadge": "Insignia otorgada"
 }
