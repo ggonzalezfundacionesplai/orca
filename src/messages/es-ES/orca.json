@@ -21,5 +21,6 @@
 	"achievement_name": "Nombre del logro",
 	"achievement_narrative": "Narrativa de insignias",
 	"achievement_openClaimable_description": "Cualquier persona puede reclamar esta insignia",
-	"achievement_other": "Insignias"
+	"achievement_other": "Insignias",
+	"achievement_share_description": "Comparte esta insignia con otras personas que puedan reclamarla o aprender más sobre ella. Por ejemplo, puedes mostrar o guardar el código QR para agregarlo a una presentación e invitar a la audiencia a reclamar una insignia."
 }
