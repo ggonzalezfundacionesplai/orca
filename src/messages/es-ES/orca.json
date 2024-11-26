@@ -28,5 +28,6 @@
 	"achievements_description": "Los logros que muestra una comunidad te identifican lo que importa en la comunidad.",
 	"action_other": "Acciones",
 	"adminRoleLabel": "Administrador",
-	"awardBadgeCTA": "Invitación a reclamar"
+	"awardBadgeCTA": "Invitación a reclamar",
+	"awardBadgeCTA_description": "Reconozca directamente el logro de un miembro de la comunidad con una insignia."
 }
