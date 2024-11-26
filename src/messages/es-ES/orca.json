@@ -27,5 +27,6 @@
 	"achievements_all": "Todos los logros",
 	"achievements_description": "Los logros que muestra una comunidad te identifican lo que importa en la comunidad.",
 	"action_other": "Acciones",
-	"adminRoleLabel": "Administrador"
+	"adminRoleLabel": "Administrador",
+	"awardBadgeCTA": "Invitación a reclamar"
 }
