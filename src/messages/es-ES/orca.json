@@ -19,8 +19,9 @@
 	"achievement_edit_description": "Cuando actualice un logro, la nueva definición se aplicará a los miembros de la comunidad que lo reclamaron anteriormente, así como a los premios futuros.",
 	"achievement_invitedByNameAtTime": "Invitado por {givenName} {familyName} {timeAgo}",
 	"achievement_name": "Nombre del logro",
-	"achievement_narrative": "Narrativa de insignias",
-	"achievement_openClaimable_description": "Cualquier persona puede reclamar esta insignia",
-	"achievement_other": "Insignias",
-	"achievement_share_description": "Comparte esta insignia con otras personas que puedan reclamarla o aprender más sobre ella. Por ejemplo, puedes mostrar o guardar el código QR para agregarlo a una presentación e invitar a la audiencia a reclamar una insignia."
+	"achievement_narrative": "Narrativa de logros",
+	"achievement_openClaimable_description": "Cualquier persona puede reclamar este logro",
+	"achievement_other": "Logros",
+	"achievement_share_description": "Comparte este logro con otras personas que puedan reclamarlo o aprender más sobre él. Por ejemplo, puedes mostrar o guardar el código QR para agregarlo a una presentación e invitar a la audiencia a reclamar una insignia.",
+	"achievement_youHaveClaimed_description": "Has reclamado con éxito una insignia por este logro."
 }
