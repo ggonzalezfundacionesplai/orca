@@ -26,5 +26,6 @@
 	"achievement_youHaveClaimed_description": "Has reclamado con éxito una insignia por este logro.",
 	"achievements_all": "Todos los logros",
 	"achievements_description": "Los logros que muestra una comunidad te identifican lo que importa en la comunidad.",
-	"action_other": "Acciones"
+	"action_other": "Acciones",
+	"adminRoleLabel": "Administrador"
 }
