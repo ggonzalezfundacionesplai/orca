@@ -68,5 +68,6 @@
 	"claimConfiguration_claimRequiresSummary": "Este logro puede ser reclamado por miembros que tengan una insignia por:",
 	"claimConfiguration_heading": "Configuración de la reclamación de insignias",
 	"claimConfiguration_noReviewsRequired_description": "Las reclamaciones de insignia son válidas inmediatamente y no requieren revisión.",
-	"claimConfiguration_openClaimableCTA": "Solicitud para unirse a la comunidad"
+	"claimConfiguration_openClaimableCTA": "Solicitud para unirse a la comunidad",
+	"claimConfiguration_inviteRequiresDescription": "Las invitaciones para reclamar podrán ser realizadas por los titulares de:"
 }
