@@ -30,5 +30,6 @@
 	"adminRoleLabel": "Administrador",
 	"awardBadgeCTA": "Invitación a reclamar",
 	"awardBadgeCTA_description": "Reconozca directamente el logro de un miembro de la comunidad con una insignia.",
-	"awardCTA": "Invitar"
+	"awardCTA": "Invitar",
+	"award_createUserIfNotExistsOption": "Avanzado: Forzar la creación de una cuenta para este usuario si aún no es miembro"
 }
